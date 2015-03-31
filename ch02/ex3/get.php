@@ -4,7 +4,7 @@
         <body>
            
 
-                <a href="file:/home/cpnv/public_html/2eme/CH02/Ex3>post.php</a>
+                <a href="file:/home/cpnv/public_html/2eme/ch02/ex3>post.php</a>
            
 
         </body>
